@@ -5,9 +5,12 @@ import flixel.sound.FlxSound;
 import funkin.audio.FunkinSound;
 import funkin.Conductor;
 import funkin.Paths;
+import funkin.graphics.shaders.BlurredContrastFlashShader;
+import openfl.filters.ShaderFilter;
 import funkin.modding.base.ScriptedFlxRuntimeShader;
 import funkin.play.PlayState;
 import funkin.play.stage.Stage;
+import flixel.tweens.FlxTween;
 
 class PhillyTrainStage extends Stage
 {
@@ -17,6 +20,9 @@ class PhillyTrainStage extends Stage
 	}
 
 	var LIGHT_COUNT:Int = 5;
+
+	var flashShader:BlurredContrastFlashShader = new BlurredContrastFlashShader();
+	var flashShaderFilter:ShaderFilter;
 
 	var lightShader:FlxRuntimeShader;
 	var trainSound:FunkinSound;
@@ -36,6 +42,11 @@ class PhillyTrainStage extends Stage
 			light.shader = lightShader;
 			light.visible = false;
 		}
+
+		flashShader.contrast = 1;
+		flashShader.blur = 0;
+		flashShaderFilter = new ShaderFilter(flashShader);
+		FlxG.camera.setFilters([flashShaderFilter]);
 	}
 
 	function fetchAssetPaths():Array<String>
@@ -57,6 +68,10 @@ class PhillyTrainStage extends Stage
 		// Update beat lights
 		var shaderInput:Float = (Conductor.instance.beatLengthMs / 1000) * event.elapsed * 1.5;
 		lightShader.scriptCall('update', [shaderInput]);
+		flashShader.update(event.elapsed);
+
+		flashShader.contrast += 0.03;
+		flashShader.blur += 0.01;
 
 		// Update train
 		if (trainMoving)
@@ -90,6 +105,9 @@ class PhillyTrainStage extends Stage
 		{
 			// Reset opacity
 			lightShader.scriptCall('reset');
+
+			flashShader.contrast = 1;
+			flashShader.blur = 0;
 
 			// Switch to a different light
 			curLight = FlxG.random.int(0, LIGHT_COUNT - 1);
