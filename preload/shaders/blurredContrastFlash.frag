@@ -2,7 +2,6 @@
 
 uniform float contrast;
 uniform float blurAmount;
-uniform float uTime;
 
 /*- - - https://www.shadertoy.com/view/XdcXzn
 - - - - Contrast code source*/
