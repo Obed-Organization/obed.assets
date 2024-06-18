@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "scrollSpeed": {
+    "obed": 3.1,
+    "normal": 3.1,
+    "pussy": 2.7
+  },
+  "events": [
+    {
+      "t": 83250,
+      "e": "FocusCamera",
+      "v": {
+        "char": 0
+      }
+    }
+  ],
+  "notes": {
+    "obed": [],
+    "normal": [],
+    "pussy": []
+  },
+  "generatedBy": "Friday Night Funkin' - v0.4.1"
+}

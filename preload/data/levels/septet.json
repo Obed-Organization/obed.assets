@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "OBED",
+  "titleAsset": "storymenu/titles/tutorial",
+  "props": [],
+  "background": "#F9CF51",
+  "songs": ["8eight"]
+}
