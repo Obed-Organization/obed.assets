@@ -2,7 +2,7 @@
   "version": "2.2.3",
   "songName": "8Eight",
   "artist": "D.Dregz",
-  "charter": "D.Dregz",
+  "divisions": 96,
   "looped": false,
   "offsets": {
     "instrumental": 0,
@@ -11,7 +11,7 @@
   },
   "playData": {
     "songVariations": [],
-    "difficulties": ["pussy", "normal", "obed"],
+    "difficulties": ["pussy", "obed", "normal"],
     "characters": {
       "player": "bf",
       "girlfriend": "gf",
@@ -22,9 +22,9 @@
     "stage": "mainStage",
     "noteStyle": "funkin",
     "ratings": {
+      "pussy": 0,
       "obed": 0,
-      "normal": 0,
-      "pussy": 0
+      "normal": 0
     },
     "previewStart": 0,
     "previewEnd": 0
