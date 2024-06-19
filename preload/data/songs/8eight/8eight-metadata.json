@@ -26,8 +26,8 @@
       "obed": 6,
       "normal": 0
     },
-    "previewStart": 0,
-    "previewEnd": 0
+    "previewStart": 20,
+    "previewEnd": 10
   },
   "generatedBy": "Friday Night Funkin' - v0.4.1",
   "timeFormat": "ms",

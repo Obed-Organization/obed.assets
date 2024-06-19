@@ -9,1598 +9,1598 @@
       "t": 1000,
       "e": "FocusCamera",
       "v": {
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 1166.66666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 1500,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 2000,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 2416.66666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 3666.66666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 4083.33333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 4666.66666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 5333.33333333333,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 1
-}
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 8000,
       "e": "FocusCamera",
       "v": {
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 8833.33333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 9583.33333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 10666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 13333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 13416.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 14916.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 15250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 16000,
       "e": "FocusCamera",
       "v": {
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 16000,
       "e": "ZoomCamera",
       "v": {
-	"ease": "cubeOut",
-	"duration": 8,
-	"zoom": 0.7,
-	"mode": "stage"
-}
+        "ease": "cubeOut",
+        "duration": 8,
+        "zoom": 0.7,
+        "mode": "stage"
+      }
     },
     {
       "t": 18666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 19083.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 19500,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 20250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 20500,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 21333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 24000,
       "e": "FocusCamera",
       "v": {
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 24083.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 25750,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 26250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 26666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "duration": 4,
+        "x": 0,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 26666.6666666667,
       "e": "ZoomCamera",
       "v": {
-	"duration": 4,
-	"ease": "linear",
-	"zoom": 1.2,
-	"mode": "stage"
-}
+        "duration": 4,
+        "ease": "linear",
+        "zoom": 1.2,
+        "mode": "stage"
+      }
     },
     {
       "t": 32000,
       "e": "FocusCamera",
       "v": {
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 33750,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 34250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 37333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 40000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 40250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 40583.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 42083.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 42666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 44000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 44083.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 44583.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 44916.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 45333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 47666.6666666667,
       "e": "ScrollSpeed",
       "v": {
-	"duration": 4,
-	"scroll": 1.2,
-	"strumline": "both",
-	"ease": "cubeOut",
-	"absolute": false
-}
+        "duration": 4,
+        "scroll": 1.2,
+        "strumline": "both",
+        "ease": "cubeOut",
+        "absolute": false
+      }
     },
     {
       "t": 48000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 48000,
       "e": "ZoomCamera",
       "v": {
-	"ease": "cubeOut",
-	"duration": 8,
-	"zoom": 1,
-	"mode": "stage"
-}
+        "ease": "cubeOut",
+        "duration": 8,
+        "zoom": 1,
+        "mode": "stage"
+      }
     },
     {
       "t": 48333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 48666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 49000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 49333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 49666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 50000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 50333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 50666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 51000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 51333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 51666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 52000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 52333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 52666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"duration": 0.5,
-	"type": "out",
-	"blur": 1
-}
+        "contrast": 2,
+        "duration": 0.5,
+        "type": "out",
+        "blur": 1
+      }
     },
     {
       "t": 53333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "duration": 4,
+        "x": 0,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 53333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 3,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 3,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 53583.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 53666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 54000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 54250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 54333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 54666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 54916.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 55000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 55333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 55500,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 55583.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 55833.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 56000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 56250,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 56333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 56666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 56916.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 57000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 57333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 57583.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 57666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 58000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 58666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 58666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 59000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 59333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 59666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 60000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 60000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 60083.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 60333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 60666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 60750,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 61000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 61333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 61333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 61666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 62000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 62333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 62666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 62666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 62750,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 63000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 63333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 63416.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 63666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 64000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 64000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 64333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 64666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 65000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 65333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 65333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 65416.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 65666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 65916.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 66000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 66333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 66666.6666666667,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 66666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 67000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 67333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 67666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 68000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cubeOut"
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "char": 0,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 68000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 68083.3333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 68333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 68416.6666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 68666.6666666667,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 69000,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 2,
-	"type": "out",
-	"duration": 0.5,
-	"blur": 1
-}
+        "contrast": 2,
+        "type": "out",
+        "duration": 0.5,
+        "blur": 1
+      }
     },
     {
       "t": 69333.3333333333,
       "e": "FocusCamera",
       "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"char": 1,
-	"ease": "cubeOut"
-}
+        "duration": 4,
+        "x": 0,
+        "y": 0,
+        "char": 1,
+        "ease": "cubeOut"
+      }
     },
     {
       "t": 69333.3333333333,
-      "e": "Obed Flash",
+      "e": "ObedFlash",
       "v": {
-	"contrast": 3,
-	"type": "out",
-	"duration": 5,
-	"blur": 1
-}
+        "contrast": 3,
+        "type": "out",
+        "duration": 5,
+        "blur": 1
+      }
     },
     {
       "t": 69333.3333333333,
       "e": "ScrollSpeed",
       "v": {
-	"duration": 4,
-	"scroll": 1,
-	"strumline": "both",
-	"ease": "cubeOut",
-	"absolute": false
-}
+        "duration": 4,
+        "scroll": 1,
+        "strumline": "both",
+        "ease": "cubeOut",
+        "absolute": false
+      }
     },
     {
       "t": 101333.333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 0
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 102666.666666667,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 1
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 104000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 0
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 105333.333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 1
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 105416.666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 106666.666666667,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 0
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 108000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 1
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 109333.333333333,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 0
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 109416.666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 110083.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 112000,
       "e": "FocusCamera",
       "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"ease": "cubeOut",
-	"char": 1
-}
+        "x": 0,
+        "duration": 4,
+        "y": 0,
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 114666.666666667,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 0
-}
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 115083.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 115416.666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 116416.666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 117333.333333333,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 1
-}
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 120000,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 0
-}
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 120083.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 121583.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 121916.666666667,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 122666.666666667,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 1
-}
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 122666.666666667,
       "e": "ZoomCamera",
       "v": {
-	"duration": 8,
-	"ease": "cubeOut",
-	"mode": "stage",
-	"zoom": 0.7
-}
+        "duration": 8,
+        "ease": "cubeOut",
+        "mode": "stage",
+        "zoom": 0.7
+      }
     },
     {
       "t": 125333.333333333,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 0
-}
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 126083.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 127083.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 128000,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 1
-}
+        "ease": "cubeOut",
+        "char": 1
+      }
     },
     {
       "t": 130666.666666667,
       "e": "FocusCamera",
       "v": {
-	"ease": "cubeOut",
-	"char": 0
-}
+        "ease": "cubeOut",
+        "char": 0
+      }
     },
     {
       "t": 130750,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     },
     {
       "t": 132583.333333333,
-      "e": "Mute Note",
+      "e": "MuteNote",
       "v": {
-	"voice": "player",
-	"duration": 0,
-	"difficulty": "pussy"
-}
+        "voice": "player",
+        "duration": 0,
+        "difficulty": "pussy"
+      }
     }
   ],
   "notes": {
@@ -6843,7 +6843,7 @@
         "l": 0
       }
     ],
-    "normal": [    ]
+    "normal": []
   },
   "generatedBy": "Friday Night Funkin' - v0.4.1"
 }
