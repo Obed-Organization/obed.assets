@@ -6,18 +6,22 @@
   "looped": false,
   "offsets": {
     "instrumental": 0,
-    "altInstrumentals": {},
-    "vocals": {}
+    "altInstrumentals": {    },
+    "vocals": {    }
   },
   "playData": {
-    "songVariations": [],
-    "difficulties": ["pussy", "obed", "normal"],
+    "songVariations": [    ],
+    "difficulties": [
+      "pussy",
+      "obed",
+      "normal"
+    ],
     "characters": {
       "player": "bf",
       "girlfriend": "gf",
       "opponent": "dad",
       "instrumental": "",
-      "altInstrumentals": []
+      "altInstrumentals": [      ]
     },
     "stage": "mainStage",
     "noteStyle": "funkin",
@@ -38,7 +42,12 @@
       "bpm": 180,
       "n": 4,
       "d": 4,
-      "bt": [4, 4, 4, 4]
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
     }
   ]
 }
