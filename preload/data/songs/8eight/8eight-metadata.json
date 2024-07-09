@@ -13,8 +13,7 @@
     "songVariations": [    ],
     "difficulties": [
       "pussy",
-      "obed",
-      "normal"
+      "obed"
     ],
     "characters": {
       "player": "bf",
@@ -27,8 +26,7 @@
     "noteStyle": "funkin",
     "ratings": {
       "pussy": 3,
-      "obed": 6,
-      "normal": 0
+      "obed": 6
     },
     "previewStart": 20,
     "previewEnd": 10
