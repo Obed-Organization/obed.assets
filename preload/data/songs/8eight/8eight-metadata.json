@@ -25,8 +25,8 @@
     "stage": "mainStage",
     "noteStyle": "funkin",
     "ratings": {
-      "pussy": 3,
-      "obed": 6
+      "obed": 6,
+      "pussy": 3
     },
     "previewStart": 20,
     "previewEnd": 10
