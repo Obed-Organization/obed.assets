@@ -2,6 +2,7 @@
   "version": "2.2.3",
   "songName": "8Eight",
   "artist": "D.Dregz",
+  "charter": "D.Dregz",
   "divisions": 96,
   "looped": false,
   "offsets": {
@@ -23,7 +24,7 @@
       "altInstrumentals": [      ]
     },
     "stage": "mainStage",
-    "noteStyle": "funkin",
+    "noteStyle": "red",
     "ratings": {
       "obed": 6,
       "pussy": 3

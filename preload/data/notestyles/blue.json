@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "name": "Obed Blue",
+  "author": ".shinku",
+  "fallback": null,
+  "assets": {
+    "note": {
+      "assetPath": "shared:obednotes/blue/notes",
+      "data": {
+        "left": { "prefix": "LEFT" },
+        "down": { "prefix": "DOWN" },
+        "up": { "prefix": "UP" },
+        "right": { "prefix": "RIGHT" }
+      }
+    },
+    "noteStrumline": {
+      "assetPath": "shared:obednotes/blue/strum",
+      "scale": 2.2,
+      "offsets": [0, 0],
+      "data": {
+        "leftStatic": { "prefix": "LEFT" },
+        "leftPress": { "prefix": "LEFT" },
+        "leftConfirm": { "prefix": "pressLEFT" },
+        "leftConfirmHold": { "prefix": "pressLEFT" },
+        "downStatic": { "prefix": "DOWN" },
+        "downPress": { "prefix": "DOWN" },
+        "downConfirm": { "prefix": "pressDOWN" },
+        "downConfirmHold": { "prefix": "pressDOWN" },
+        "upStatic": { "prefix": "UP" },
+        "upPress": { "prefix": "UP" },
+        "upConfirm": { "prefix": "pressUP" },
+        "upConfirmHold": { "prefix": "pressUP" },
+        "rightStatic": { "prefix": "RIGHT" },
+        "rightPress": { "prefix": "RIGHT" },
+        "rightConfirm": { "prefix": "pressRIGHT" },
+        "rightConfirmHold": { "prefix": "pressRIGHT" }
+      }
+    },
+    "holdNote": {
+      "assetPath": "NOTE_hold_assets",
+      "data": {}
+    },
+    "noteSplash": {
+      "assetPath": "shared:obednotes/blue/splash",
+      "data": {
+        "enabled": true
+      }
+    },
+    "holdNoteCover": {
+      "assetPath": "",
+      "data": {
+        "enabled": true
+      }
+    },
+    "bar": {
+      "assetPath": "shared:obednotes/red/blue"
+    }
+  }
+}
